@@ -4,7 +4,7 @@
 ## Solution:
 ##### This is the example of a production company *processing* data as per requirements from its equipment (typical work orders), then *extracting*, *transforming* and *loading* with a *storage* it in business information warehouse. *Business* users could request required information through reporting sources. 
 
-![Architecture of the layers](layers.jpg)
+![Architecture of the layers](layers.png)
 
 
 ## Task 2:
