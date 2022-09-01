@@ -8,9 +8,7 @@
 
 
 ## Task 2:
-##### To create a dashboard on sample report using pivot tables and Excel formulas 
-
-To create a dashboard on sample report using pivot tables and Excel formulas
+##### To create a dashboard on a sample report using pivot tables and Excel formulas 
 
 ## Solution:
 ##### [Sample - Superstore - Maha's solution](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Foctopuswantssomesleep%2FDatalearn%2Fmain%2FDE-101%2FModule01%2FSample%2520-%2520Superstore%2520-%2520Maha.xlsx&wdOrigin=BROWSELINK)
